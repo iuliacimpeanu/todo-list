@@ -1,6 +1,6 @@
 # To-Do List
 
-![Screenshot 2023-12-18 at 18 19 39](https://github.com/iuliaignat/todo-list/assets/72752718/19820df7-030f-40a2-a562-a6fc08142e57)
+![Screenshot 2023-12-18 at 18 25 50](https://github.com/iuliaignat/todo-list/assets/72752718/4f4b5f34-ada7-4f38-bc24-2180c88aedf0)
 
 # Getting Started with Create React App
 
